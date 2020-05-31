@@ -1,0 +1,57 @@
+
+    #members .home{
+      height: 100vh;
+    background-color: black;
+   }
+   #members .information {
+     margin-top: 100px;
+   }
+   #members .information h1 {
+      margin: 50px 0px 20px 0px;
+      color: wheat;
+      font-weight: 700;
+      font-size: 40px;
+    }
+    #members .table {
+      margin: 60px 0px;
+    }
+    #members table {
+      width: 100%;
+    }
+    #members .underline {
+      height: 2px;
+      width: 30%;
+      background-color: #7c7c34;
+      margin: 0 auto;
+    }
+    #members th{
+      background-color: #7c7c34;
+      border: 3px solid #7c7c34;
+      color: wheat;
+      text-align: center;
+      padding: 8px;
+    }
+    #members td{
+      border: 3px solid rgb(124, 124, 52);
+      text-align: center;
+      color: wheat;
+      padding: 8px;
+    }
+    #members .addbtn button{
+      text-transform: uppercase;
+    padding: 10px 34px;
+    margin-top: 45px;
+    font-size: 17px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+    font-weight: 600;
+    }
+    #members .addbtn button:hover, button:focus{
+      background-color: cornflowerblue;
+      color: black;
+      outline: 0;
+
+    }
+    
+  
